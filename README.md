@@ -1,4 +1,4 @@
-# Azure-shell-scripting
+# GetAll Azure routes from shell scripting
 Shell scripting to fetch data from Azure.
 
 
